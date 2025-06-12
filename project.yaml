@@ -26,6 +26,7 @@ basic:
         - /checklists/27131
         - /articles
         - /articles/their-beautiful-image
+        - /events
     monitoring:
         days: {  }
         type: ''
